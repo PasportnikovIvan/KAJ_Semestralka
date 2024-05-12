@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src=".png" alt="logo" width="30" height="30" />
+<img src="https://github.com/PasportnikovIvan/KAJ_Semestralka/blob/main/public/favicon-32x32.png" alt="logo" width="30" height="30" />
 Audio Editor
 	
 </h1>
