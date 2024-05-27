@@ -4,7 +4,7 @@ Audio Editor
 	
 </h1>
 
-<h1>Dokumentation</a></h1>
+<h1>Documentation</a></h1>
 
 -   An app to visualise audio files as waveforms, and to edit it in the browser!
 -   The app is built using React.js(CRA) and [wavesurfer.js](https://wavesurfer-js.org/)
@@ -35,12 +35,7 @@ Audio Editor
       <td>1</td>
     </tr>
     <tr>
-      <td rowspan="8">HTML 5</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
+      <td rowspan="7">HTML 5</td>
       <td>Validní použití HTML5 doctype</td>
       <td>✅</td>
       <td>1</td>
@@ -128,7 +123,7 @@ Audio Editor
       <td>1</td>
     </tr>
     <tr>
-      <td>Offline aplikace</td>
+      <td>Zjišťování stavu</td>
       <td></td>
       <td>1</td>
     </tr>
